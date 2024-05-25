@@ -1,0 +1,1025 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Practice.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Practice.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\big\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\custom-select.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\custom-select.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-text.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\d1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\d2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\d3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\d4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\d5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\images\\users\\profile.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\users\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\c3-master\\c3.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\c3-master\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\c3-master\\c3.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\c3-master\\c3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist-init.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist-init.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist-init.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist-init.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\chartist.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\scss\\chartist.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\scss\\chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\chartist-js\\dist\\scss\\settings\\_chartist-settings.scss",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\chartist-js\\dist\\scss\\settings\\_chartist-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\d3\\API.md",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\d3\\API.md"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\d3\\CHANGES.md",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\d3\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\d3\\LICENSE",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\d3"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\d3\\README.md",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\d3\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\d3\\d3.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\d3\\d3.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\d3\\d3.min-v4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\d3\\d3.min-v4.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\d3\\d3.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\d3\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\gmaps.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\gmaps.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\jquery.gmaps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\jquery.gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.controls.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.controls.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.core.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.core.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.events.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.events.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.geofences.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.geofences.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.geometry.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.geometry.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.layers.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.layers.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.map_types.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.map_types.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.markers.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.markers.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.native_extensions.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.native_extensions.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.overlays.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.overlays.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.routes.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.routes.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.static.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.static.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.streetview.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.streetview.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.styles.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.styles.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.utils.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\gmaps\\lib\\gmaps.utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\admin\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\colors\\default-dark.css",
+      "PackagePath": "staticwebassets\\admin\\css\\colors\\default-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\common.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\common.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\dashboard.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\error-pages.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\error-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\form-pages.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\form-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\google-vector-map.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\google-vector-map.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\icon-page.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\icon-page.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\other-pages.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\other-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\pages.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\pages.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\pagination.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\pagination.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\pages\\table-pages.css",
+      "PackagePath": "staticwebassets\\admin\\css\\pages\\table-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\spinners.css",
+      "PackagePath": "staticwebassets\\admin\\css\\spinners.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\js\\waves.js",
+      "PackagePath": "staticwebassets\\admin\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\_landingpage.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_landingpage.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\app.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\app.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\colors\\default-dark.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\colors\\default-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\scss\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\button-page.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\button-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\common.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\error-pages.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\error-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\form-pages.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\form-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\google-vector-map.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\google-vector-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\icon-page.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\icon-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\other-pages.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\other-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\pages.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\table-pages.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\table-pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\pages\\widget-page.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\widget-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\responsive.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\variable.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\activity.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\activity.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\blog.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\calendar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\chat-widget.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\chat-widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\comment.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\comment.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\common-widget.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\common-widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\contact.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\feed.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\feed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\msg-box.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\msg-box.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\profile.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\profile.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\social.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\social.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\steamline.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\steamline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\to-do.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\to-do.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\topbar-mail.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\topbar-mail.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\weather-widget.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\weather-widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\admin\\scss\\widgets\\widgets.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\widgets\\widgets.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\60efb1ef-9454-439a-bb0c-71c81fe771e3-961-1920x617.jpg",
+      "PackagePath": "staticwebassets\\img\\60efb1ef-9454-439a-bb0c-71c81fe771e3-961-1920x617.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\913714b0-dfdc-40ba-9ab8-2c83edd36618-803-1920x617.jpg",
+      "PackagePath": "staticwebassets\\img\\913714b0-dfdc-40ba-9ab8-2c83edd36618-803-1920x617.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\ae621020-6f83-4379-b290-8fb2bb1a108c-805-1920x617.jpg",
+      "PackagePath": "staticwebassets\\img\\ae621020-6f83-4379-b290-8fb2bb1a108c-805-1920x617.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\footer-bottom-1.png",
+      "PackagePath": "staticwebassets\\img\\footer-bottom-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h1-custom-icon.png",
+      "PackagePath": "staticwebassets\\img\\h1-custom-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h2-sign-img.png",
+      "PackagePath": "staticwebassets\\img\\h2-sign-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-background-img.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-slider-background-2.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-slider-background-3.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-team-img-1.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-team-img-2.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-team-img-3.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-team-img-4.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\h3-video-img.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram7.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\instagram8.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-10-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-10-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-11-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-11-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-12-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-12-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-13-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-13-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-14-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-14-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-7-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-7-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-8-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-8-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-9-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-9-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-category-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-category-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-category-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-category-img-5.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\shop-category-img-6.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\testimonial-img-1.png",
+      "PackagePath": "staticwebassets\\img\\testimonial-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\img\\testimonial-img-2.png",
+      "PackagePath": "staticwebassets\\img\\testimonial-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\js\\blog.js",
+      "PackagePath": "staticwebassets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\lib\\_common.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\lib\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\lib\\_varibales.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_varibales.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_experts.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_instagram.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_instagram.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_product-list.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_product-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_progress.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_say.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_say.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_shop-list.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_shop-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_slider.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_subscribe.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\sections\\_tab.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_tab.scss"
+    },
+    {
+      "Id": "C:\\Users\\Agshin\\Desktop\\FullStackDeveloper\\Backend\\Asp.net\\Basket, One to many, Pagination\\Practice\\Practice\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Practice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Practice.props",
+      "PackagePath": "build\\Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Practice.props",
+      "PackagePath": "buildMultiTargeting\\Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Practice.props",
+      "PackagePath": "buildTransitive\\Practice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

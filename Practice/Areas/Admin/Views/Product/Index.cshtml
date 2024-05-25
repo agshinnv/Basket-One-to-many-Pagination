@@ -1,0 +1,77 @@
+﻿
+@model List<ProductVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="conatiner mt-5">
+    <div class="create-product" style="margin-left: 13px;">
+        <a asp-action="Create" class="btn btn-success" style="font-size: 20px;"><i class="mdi mdi-plus-circle-outline"></i></a>
+    </div>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Category</th>
+                    <th>Operations</th>
+                </tr>
+            </thead>
+            <tbody style="vertical-align:middle !important">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <img src="~/img/@item.Image" width="100px" height="100px" />
+                        </td>
+                        <td>
+                            @item.Name
+                        </td>
+                        <td>
+                            @item.Description
+                        </td>
+                        <td>
+                            @item.Price
+                        </td>
+                        <td>
+                            @item.Category
+                        </td>
+                        <td>
+                            <a class="btn btn-info" style="font-size: 20px;" asp-action="Detail" asp-route-id="@item.Id"><i class="mdi mdi-information-variant"></i></a>
+                            <a class="btn btn-warning" style="font-size: 20px;" asp-action="Edit" asp-route-id="@item.Id"><i class="mdi mdi-table-edit"></i></a>
+                            <form class="form-horizontal form-material mx-2 d-inline" method="post" asp-action="Delete" asp-route-id="@item.Id">
+                                <button type="submit" class="btn btn-danger" style="font-size: 20px;"><i class="mdi mdi-delete-empty"></i></button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="paninate-area d-flex justify-content-center mt-3">
+        <nav aria-label="...">
+            <ul class="pagination">
+                
+              <li class="page-item @(ViewBag.currentPage == 1 ? "disabled" : "")"><a class="page-link" asp-action="Index" asp-route-page="@(ViewBag.currentPage-1)">Previous</a></li>
+
+                @for (int i = 1; i <= @ViewBag.pageCount; i++) 
+                {
+                    <li class="page-item @(ViewBag.currentPage == i ? "disabled" : "")"><a class="page-link @(ViewBag.currentPage == i ? "paginate-active" : "")" asp-action="Index" asp-route-page="@i">@i</a></li>
+                    
+                }
+                
+                
+             <li class="page-item @(ViewBag.currentPage == ViewBag.pageCount ? "disabled" : "")"><a class="page-link" asp-action="Index" asp-route-page="@(ViewBag.currentPage+1)">Next</a></li>
+                
+                             
+            </ul>
+        </nav>
+    </div>
+
+</div>
+

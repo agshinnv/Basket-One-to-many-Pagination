@@ -1,0 +1,38 @@
+﻿@model List<SliderVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="conatiner mt-5">
+    <div class="create-category" style="margin-left: 13px;">
+        <a asp-action="Create" class="btn btn-success" style="font-size: 20px;"><i class="mdi mdi-plus-circle-outline"></i></a>
+    </div>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            <img src="~/img/@item.Image" width="130px" height="50px" />
+                        </td>
+                        <td>
+                            <a class="btn btn-info" style="font-size: 20px;" asp-action="Detail" asp-route-id="@item.Id"><i class="mdi mdi-information-variant"></i></a>
+                            <a class="btn btn-warning" style="font-size: 20px;" asp-action="Edit" asp-route-id="@item.Id"><i class="mdi mdi-table-edit"></i></a>
+                            <form class="form-horizontal form-material mx-2 d-inline" method="post" asp-action="Delete" asp-route-id="@item.Id">
+                                <button type="submit" class="btn btn-danger" style="font-size: 20px;"><i class="mdi mdi-delete-empty"></i></button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
